@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\js\citySearch.js" />
+    <Content Remove="wwwroot\js\dailyLeader.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\js\citySearch.js" />
+    <_ContentIncludedByDefault Remove="wwwroot\js\dailyLeader.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js\citySearch.js" />
+    <None Include="wwwroot\js\dailyLeader.js" />
+  </ItemGroup>
+
+</Project>

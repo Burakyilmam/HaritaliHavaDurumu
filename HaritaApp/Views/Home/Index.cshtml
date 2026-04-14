@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<link href="~/css/map.css" rel="stylesheet" />
+
+<div id="map"></div>
+
+<div id="cityTableContainer">
+    <table class="table table-striped table-bordered text-center" id="cityTable">
+        <thead>
+            <tr>
+                <th>Şehir</th>
+                <th>Enlem</th>
+                <th>Boylam</th>
+                <th>Sıcaklık (°C)</th>
+                <th>Rüzgar (km/s)</th>
+                <th>Yağış (mm)</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+    
+<script type ="module" src="~/js/app.js"></script>
