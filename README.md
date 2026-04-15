@@ -71,5 +71,9 @@
 </ul>
 
 <h3>Ekran Görüntüleri</h3>
-<p><i>Yakında eklenecek...</i></p>
-
+<img width="700" height="350" alt="sicaklikKatman" src="https://github.com/user-attachments/assets/696abd5b-de75-4808-b47e-6af526242293" />
+<img width="700" height="350" alt="ruzgarKatman" src="https://github.com/user-attachments/assets/a05bfda2-3570-4505-a106-1d2f77779af0" />
+<img width="700" height="350" alt="yagisKatman" src="https://github.com/user-attachments/assets/93f993e8-acd4-48b6-b89a-049999f47b8e" />
+<img width="700" height="350" alt="havaDurumuPopup" src="https://github.com/user-attachments/assets/73b9dadd-2538-407c-93e5-0a8327429808" />
+<img width="700" height="350" alt="arama" src="https://github.com/user-attachments/assets/a008846b-27ba-4caf-a268-e527cb4196e2" />
+<img width="700" height="350" alt="katmanGecis" src="https://github.com/user-attachments/assets/5aac6403-da64-47b9-951a-233e018b3a69" />
